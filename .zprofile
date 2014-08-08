@@ -1,0 +1,1 @@
+# use .zlogin instead
